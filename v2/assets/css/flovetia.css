@@ -101,3 +101,11 @@
 .socials img{
     color: #e0e0e0;
 }
+@media (max-width: 992px){
+    #stories .panel-right{
+        padding: 40px;
+    }
+    .description{
+        top: 200px;
+    }
+}
