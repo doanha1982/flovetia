@@ -15,7 +15,7 @@
     background: rgba(187, 187, 187, 0.9);
     border-radius: 15px;
     margin: 20px 50px;
-    z-index: 1;
+    z-index: 5;
 }
 .master-nav .nav-link{
     color:#fff;
