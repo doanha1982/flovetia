@@ -114,6 +114,15 @@
     width: 50px;
     height: 50px;
 }
+.product-caption{
+    position: absolute;
+    right: 1%;
+    bottom: 0px;
+    left: 1%;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 15px;
+}
 @media (min-width: 1140px) and (max-width: 1200px){
     #stories .panel-right{
         padding: 40px;
