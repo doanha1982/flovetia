@@ -15,6 +15,7 @@ a, a:hover {text-decoration: none;}
 .btn-book-now {text-transform: uppercase;border: 1px solid #eeaa9c;border-radius: 6px;background-color: #fff;color: #eeaa9c;}
 .btn-book-now:hover {border-radius: 6px;background-color: #eeaa9c;color: #fff;}
 .panel-right .note p:not(:first-child) {font-weight: 300;}
+#products {margin-top: -126px;padding-top: 130px;background-image: url("../img/slogan.jpg");background-position: center center;background-repeat: no-repeat;background-size: cover;background-attachment: fixed;}
 #slogan {text-align: center;text-transform: uppercase;background-image: url("../img/slogan.jpg");background-position: center center;background-repeat: no-repeat;background-size: cover;background-attachment: fixed;padding: 96px 20px 60px 20px;margin-top: 80px;margin-bottom: 80px;}
 #slogan .slogan-wraper {margin: 0 auto;max-width: 1000px;border: 3px solid #eeaa9c;padding: 3px;}
 .slogan-wraper h5 {font-weight: unset;}
