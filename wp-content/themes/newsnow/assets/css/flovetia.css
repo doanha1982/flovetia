@@ -22,6 +22,7 @@ a, a:hover {
 }
 .nav-link a{
     color:#212529;
+    text-transform: uppercase;
 }
 a:hover{
     color: #ff0000;
