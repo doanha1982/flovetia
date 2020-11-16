@@ -7,11 +7,9 @@
     <meta name="HandheldFriendly" content="true">
     <link rel="profile" href="http://gmpg.org/xfn/11">
     
-	<!-- This site is optimized with the Yoast SEO plugin v14.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<!-- This site is optimized with the Yoast SEO plugin v15.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Nhật Ký Archives - Flovetia Việt - Chuyên cung cấp Lan Hồ Điệp</title>
-	<meta name="robots" content="index, follow" />
-	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
 	<link rel="canonical" href="http://flovetia.test/category/nhat-ky/" />
 	<link rel="next" href="http://flovetia.test/category/nhat-ky/page/2/" />
 	<meta property="og:locale" content="vi_VN" />
@@ -24,7 +22,7 @@
 	<meta property="og:image:height" content="1280" />
 	<meta property="fb:app_id" content="622893315083702" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://flovetia.test/#organization","name":"Flovetia Vi\u1ec7t","url":"http://flovetia.test/","sameAs":["https://www.facebook.com/flovetia"],"logo":{"@type":"ImageObject","@id":"http://flovetia.test/#logo","inLanguage":"vi","url":"http://flovetia.test/wp-content/uploads/2020/08/flovetia.png","width":5000,"height":5000,"caption":"Flovetia Vi\u1ec7t"},"image":{"@id":"http://flovetia.test/#logo"}},{"@type":"WebSite","@id":"http://flovetia.test/#website","url":"http://flovetia.test/","name":"Flovetia Vi\u1ec7t - Chuy\u00ean cung c\u1ea5p Lan H\u1ed3 \u0110i\u1ec7p","description":"H\u1ea1nh Ph\u00fac Tr\u00ean T\u1eebng C\u00e1nh Hoa","publisher":{"@id":"http://flovetia.test/#organization"},"potentialAction":[{"@type":"SearchAction","target":"http://flovetia.test/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":"CollectionPage","@id":"http://flovetia.test/category/nhat-ky/#webpage","url":"http://flovetia.test/category/nhat-ky/","name":"Nh\u1eadt K\u00fd Archives - Flovetia Vi\u1ec7t - Chuy\u00ean cung c\u1ea5p Lan H\u1ed3 \u0110i\u1ec7p","isPartOf":{"@id":"http://flovetia.test/#website"},"breadcrumb":{"@id":"http://flovetia.test/category/nhat-ky/#breadcrumb"},"inLanguage":"vi"},{"@type":"BreadcrumbList","@id":"http://flovetia.test/category/nhat-ky/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"http://flovetia.test/","url":"http://flovetia.test/","name":"Trang Ch\u1ee7"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"http://flovetia.test/category/nhat-ky/","url":"http://flovetia.test/category/nhat-ky/","name":"Nh\u1eadt K\u00fd"}}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://flovetia.test/#organization","name":"Flovetia Vi\u1ec7t","url":"http://flovetia.test/","sameAs":["https://www.facebook.com/flovetia"],"logo":{"@type":"ImageObject","@id":"http://flovetia.test/#logo","inLanguage":"vi","url":"http://flovetia.test/wp-content/uploads/2020/08/flovetia.png","width":5000,"height":5000,"caption":"Flovetia Vi\u1ec7t"},"image":{"@id":"http://flovetia.test/#logo"}},{"@type":"WebSite","@id":"http://flovetia.test/#website","url":"http://flovetia.test/","name":"Flovetia Vi\u1ec7t - Chuy\u00ean cung c\u1ea5p Lan H\u1ed3 \u0110i\u1ec7p","description":"H\u1ea1nh Ph\u00fac Tr\u00ean T\u1eebng C\u00e1nh Hoa","publisher":{"@id":"http://flovetia.test/#organization"},"potentialAction":[{"@type":"SearchAction","target":"http://flovetia.test/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":"CollectionPage","@id":"http://flovetia.test/category/nhat-ky/#webpage","url":"http://flovetia.test/category/nhat-ky/","name":"Nh\u1eadt K\u00fd Archives - Flovetia Vi\u1ec7t - Chuy\u00ean cung c\u1ea5p Lan H\u1ed3 \u0110i\u1ec7p","isPartOf":{"@id":"http://flovetia.test/#website"},"breadcrumb":{"@id":"http://flovetia.test/category/nhat-ky/#breadcrumb"},"inLanguage":"vi","potentialAction":[{"@type":"ReadAction","target":["http://flovetia.test/category/nhat-ky/"]}]},{"@type":"BreadcrumbList","@id":"http://flovetia.test/category/nhat-ky/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"http://flovetia.test/","url":"http://flovetia.test/","name":"Trang Ch\u1ee7"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"http://flovetia.test/category/nhat-ky/","url":"http://flovetia.test/category/nhat-ky/","name":"Nh\u1eadt K\u00fd"}}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -93,6 +91,46 @@ var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":"0"};
 	    <p id="breadcrumbs"><span><span><a href="http://flovetia.test/">Trang Chủ</a> » <strong class="breadcrumb_last" aria-current="page">Nhật Ký</strong></span></span></p>        <h1>Nhật Ký</h1>
                 <div class="card-columns">
 	                <div class="card">
+                <a href="http://flovetia.test/cap-nhat-nhung-mau-hoa-hot-nhat-tai-nha-flovetia/">
+                    <img width="300" height="300" src="http://flovetia.test/wp-content/ewww/lazy/placeholder-300x300.png" class="card-img-top wp-post-image lazyload" alt="Flovetia-Cap nhat hoa thang 11" loading="lazy"   data-src="http://flovetia.test/wp-content/uploads/2020/11/cap-nhat-mau-hoa-thang-11-0-300x300.jpg" data-srcset="http://flovetia.test/wp-content/uploads/2020/11/cap-nhat-mau-hoa-thang-11-0-300x300.jpg 300w, http://flovetia.test/wp-content/uploads/2020/11/cap-nhat-mau-hoa-thang-11-0-150x150.jpg 150w" data-sizes="auto" /><noscript><img width="300" height="300" src="http://flovetia.test/wp-content/uploads/2020/11/cap-nhat-mau-hoa-thang-11-0-300x300.jpg" class="card-img-top wp-post-image" alt="Flovetia-Cap nhat hoa thang 11" loading="lazy" srcset="http://flovetia.test/wp-content/uploads/2020/11/cap-nhat-mau-hoa-thang-11-0-300x300.jpg 300w, http://flovetia.test/wp-content/uploads/2020/11/cap-nhat-mau-hoa-thang-11-0-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" data-eio="l" /></noscript>                </a>
+                <div class="card-body">
+                    <h5 class="card-title"><a href="http://flovetia.test/cap-nhat-nhung-mau-hoa-hot-nhat-tai-nha-flovetia/">CẬP NHẬT NHỮNG MẪU HOA HOT NHẤT TẠI NHÀ FLOVETIA</a></h5>
+                    <p class="card-text">
+	                    Tháng 11 về mang theo thoang thoảng chút hương trời se lạnh, chút vội vã của những tháng cuối năm. Cùng nhà #Flovetia nhìn ngắm những mẫu lan đang HOT nhất mùa...                        <span><a href="http://flovetia.test/cap-nhat-nhung-mau-hoa-hot-nhat-tai-nha-flovetia/">Xem Tiếp &raquo;</a></span>
+                    </p>
+                </div>
+            </div>
+	                <div class="card">
+                <a href="http://flovetia.test/4-ly-do-nhieu-nguoi-chon-trung-lan-ho-diep-trong-nha/">
+                                    </a>
+                <div class="card-body">
+                    <h5 class="card-title"><a href="http://flovetia.test/4-ly-do-nhieu-nguoi-chon-trung-lan-ho-diep-trong-nha/">4 LÝ DO NHIỀU NGƯỜI CHỌN TRƯNG LAN HỒ ĐIỆP TRONG NHÀ</a></h5>
+                    <p class="card-text">
+	                    Không phải tự dưng lan Hồ Điệp là cái tên được tìm kiếm nhiều nhất thời gian gần đây, mà bởi vì chính loài hoa mang trong mình vẽ đẹp tinh tế,...                        <span><a href="http://flovetia.test/4-ly-do-nhieu-nguoi-chon-trung-lan-ho-diep-trong-nha/">Xem Tiếp &raquo;</a></span>
+                    </p>
+                </div>
+            </div>
+	                <div class="card">
+                <a href="http://flovetia.test/trung-lan-ho-diep-hoa-ben-tuoi-lau/">
+                    <img width="300" height="300" src="http://flovetia.test/wp-content/ewww/lazy/placeholder-300x300.png" class="card-img-top wp-post-image lazyload" alt="Flovetia-0TRƯNG LAN HỒ ĐIỆP - HOA BỀN, TƯƠI LÂU" loading="lazy"   data-src="http://flovetia.test/wp-content/uploads/2020/11/lan-ho-diep-hoa-ben-tuoi-lau-300x300.jpg" data-srcset="http://flovetia.test/wp-content/uploads/2020/11/lan-ho-diep-hoa-ben-tuoi-lau-300x300.jpg 300w, http://flovetia.test/wp-content/uploads/2020/11/lan-ho-diep-hoa-ben-tuoi-lau-150x150.jpg 150w" data-sizes="auto" /><noscript><img width="300" height="300" src="http://flovetia.test/wp-content/uploads/2020/11/lan-ho-diep-hoa-ben-tuoi-lau-300x300.jpg" class="card-img-top wp-post-image" alt="Flovetia-0TRƯNG LAN HỒ ĐIỆP - HOA BỀN, TƯƠI LÂU" loading="lazy" srcset="http://flovetia.test/wp-content/uploads/2020/11/lan-ho-diep-hoa-ben-tuoi-lau-300x300.jpg 300w, http://flovetia.test/wp-content/uploads/2020/11/lan-ho-diep-hoa-ben-tuoi-lau-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" data-eio="l" /></noscript>                </a>
+                <div class="card-body">
+                    <h5 class="card-title"><a href="http://flovetia.test/trung-lan-ho-diep-hoa-ben-tuoi-lau/">TRƯNG LAN HỒ ĐIỆP &#8211; HOA BỀN, TƯƠI LÂU</a></h5>
+                    <p class="card-text">
+	                    Góc làm việc luôn cần được làm tưới mới để có cảm hứng, hanh thông tài lộc. Tuy nhiên, chúng ta lại phải tốn nhiều thời gian để thay đổi những chậu...                        <span><a href="http://flovetia.test/trung-lan-ho-diep-hoa-ben-tuoi-lau/">Xem Tiếp &raquo;</a></span>
+                    </p>
+                </div>
+            </div>
+	                <div class="card">
+                <a href="http://flovetia.test/yeu-thuong-gian-don/">
+                    <img width="300" height="300" src="http://flovetia.test/wp-content/ewww/lazy/placeholder-300x300.png" class="card-img-top wp-post-image lazyload" alt="Flovetia-YÊU THƯƠNG GIẢN ĐƠN" loading="lazy"   data-src="http://flovetia.test/wp-content/uploads/2020/11/yeu-thuong-gian-don-0-300x300.jpg" data-srcset="http://flovetia.test/wp-content/uploads/2020/11/yeu-thuong-gian-don-0-300x300.jpg 300w, http://flovetia.test/wp-content/uploads/2020/11/yeu-thuong-gian-don-0-150x150.jpg 150w" data-sizes="auto" /><noscript><img width="300" height="300" src="http://flovetia.test/wp-content/uploads/2020/11/yeu-thuong-gian-don-0-300x300.jpg" class="card-img-top wp-post-image" alt="Flovetia-YÊU THƯƠNG GIẢN ĐƠN" loading="lazy" srcset="http://flovetia.test/wp-content/uploads/2020/11/yeu-thuong-gian-don-0-300x300.jpg 300w, http://flovetia.test/wp-content/uploads/2020/11/yeu-thuong-gian-don-0-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" data-eio="l" /></noscript>                </a>
+                <div class="card-body">
+                    <h5 class="card-title"><a href="http://flovetia.test/yeu-thuong-gian-don/">YÊU THƯƠNG GIẢN ĐƠN</a></h5>
+                    <p class="card-text">
+	                    Có bao giờ bạn nhấc điện thoại lên, và đặt một chậu Hồ Điệp dành tặng cho những người thân yêu mà chẳng cần phải có lý do nào cả chưa? Chắc...                        <span><a href="http://flovetia.test/yeu-thuong-gian-don/">Xem Tiếp &raquo;</a></span>
+                    </p>
+                </div>
+            </div>
+	                <div class="card">
                 <a href="http://flovetia.test/cach-bat-dau-ngay-moi/">
                     <img width="300" height="300" src="http://flovetia.test/wp-content/ewww/lazy/placeholder-300x300.png" class="card-img-top wp-post-image lazyload" alt="CÁCH BẮT ĐẦU NGÀY MỚI" loading="lazy"   data-src="http://flovetia.test/wp-content/uploads/2020/11/cach-bat-dau-ngay-moi-300x300.jpg" data-srcset="http://flovetia.test/wp-content/uploads/2020/11/cach-bat-dau-ngay-moi-300x300.jpg 300w, http://flovetia.test/wp-content/uploads/2020/11/cach-bat-dau-ngay-moi-150x150.jpg 150w" data-sizes="auto" /><noscript><img width="300" height="300" src="http://flovetia.test/wp-content/uploads/2020/11/cach-bat-dau-ngay-moi-300x300.jpg" class="card-img-top wp-post-image" alt="CÁCH BẮT ĐẦU NGÀY MỚI" loading="lazy" srcset="http://flovetia.test/wp-content/uploads/2020/11/cach-bat-dau-ngay-moi-300x300.jpg 300w, http://flovetia.test/wp-content/uploads/2020/11/cach-bat-dau-ngay-moi-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" data-eio="l" /></noscript>                </a>
                 <div class="card-body">
@@ -149,46 +187,6 @@ var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":"0"};
                     <h5 class="card-title"><a href="http://flovetia.test/cam-on-ban-vi-da-chon-chung-minh-dong-hanh-tren-hanh-trinh-do/">Cảm ơn bạn vì đã chọn chúng mình đồng hành trên hành trình đó!</a></h5>
                     <p class="card-text">
 	                    Một chiếc fedback đong đầy yêu thương mà lâu rồi, nay mới có dịp mang ra hâm nóng lại tình cảm. Yêu thương là một hành trình, chẳng phải được xây dựng...                        <span><a href="http://flovetia.test/cam-on-ban-vi-da-chon-chung-minh-dong-hanh-tren-hanh-trinh-do/">Xem Tiếp &raquo;</a></span>
-                    </p>
-                </div>
-            </div>
-	                <div class="card">
-                <a href="http://flovetia.test/cung-chiem-nguong-nhung-sac-mau-ho-diep/">
-                    <img width="300" height="300" src="http://flovetia.test/wp-content/ewww/lazy/placeholder-300x300.png" class="card-img-top wp-post-image lazyload" alt="ÙNG CHIÊM NGƯỠNG NHỮNG SẮC MÀU HỒ ĐIỆP" loading="lazy"   data-src="http://flovetia.test/wp-content/uploads/2020/11/cung-chiem-nguong-nhung-sac-mau-lan-ho-diep-300x300.jpg" data-srcset="http://flovetia.test/wp-content/uploads/2020/11/cung-chiem-nguong-nhung-sac-mau-lan-ho-diep-300x300.jpg 300w, http://flovetia.test/wp-content/uploads/2020/11/cung-chiem-nguong-nhung-sac-mau-lan-ho-diep-150x150.jpg 150w" data-sizes="auto" /><noscript><img width="300" height="300" src="http://flovetia.test/wp-content/uploads/2020/11/cung-chiem-nguong-nhung-sac-mau-lan-ho-diep-300x300.jpg" class="card-img-top wp-post-image" alt="ÙNG CHIÊM NGƯỠNG NHỮNG SẮC MÀU HỒ ĐIỆP" loading="lazy" srcset="http://flovetia.test/wp-content/uploads/2020/11/cung-chiem-nguong-nhung-sac-mau-lan-ho-diep-300x300.jpg 300w, http://flovetia.test/wp-content/uploads/2020/11/cung-chiem-nguong-nhung-sac-mau-lan-ho-diep-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" data-eio="l" /></noscript>                </a>
-                <div class="card-body">
-                    <h5 class="card-title"><a href="http://flovetia.test/cung-chiem-nguong-nhung-sac-mau-ho-diep/">CÙNG CHIÊM NGƯỠNG NHỮNG SẮC MÀU HỒ ĐIỆP</a></h5>
-                    <p class="card-text">
-	                    Mỗi màu sắc mang trong mình một sứ mệnh riêng để truyền tải một thông điệp. Bạn đã biết hết những màu sắc của Lan Hồ Điệp chưa? Gọi ngay cho nhà...                        <span><a href="http://flovetia.test/cung-chiem-nguong-nhung-sac-mau-ho-diep/">Xem Tiếp &raquo;</a></span>
-                    </p>
-                </div>
-            </div>
-	                <div class="card">
-                <a href="http://flovetia.test/hom-nay-buoc-hoi-cham-roi/">
-                                    </a>
-                <div class="card-body">
-                    <h5 class="card-title"><a href="http://flovetia.test/hom-nay-buoc-hoi-cham-roi/">Hôm nay bước hơi chậm rồi?</a></h5>
-                    <p class="card-text">
-	                    &#8220;khi gặp lại, thời gian hỏi: hôm nay bước hơi chậm rồi? còn ta thì nhanh nhảu nói: vì đợi hạnh phúc cùng đi&#8221; &#8216;Nhược Lạc- Khi con người ta đủ sâu...                        <span><a href="http://flovetia.test/hom-nay-buoc-hoi-cham-roi/">Xem Tiếp &raquo;</a></span>
-                    </p>
-                </div>
-            </div>
-	                <div class="card">
-                <a href="http://flovetia.test/khong-biet-em-con-doi-khong/">
-                    <img width="300" height="300" src="http://flovetia.test/wp-content/ewww/lazy/placeholder-300x300.png" class="card-img-top wp-post-image lazyload" alt="Không biết em còn đợi không, còn #Flovetia vẫn ngồi đây từ chiều mong em" loading="lazy"   data-src="http://flovetia.test/wp-content/uploads/2020/11/khong-biet-em-con-doi-toi-khong-300x300.jpg" data-srcset="http://flovetia.test/wp-content/uploads/2020/11/khong-biet-em-con-doi-toi-khong-300x300.jpg 300w, http://flovetia.test/wp-content/uploads/2020/11/khong-biet-em-con-doi-toi-khong-150x150.jpg 150w" data-sizes="auto" /><noscript><img width="300" height="300" src="http://flovetia.test/wp-content/uploads/2020/11/khong-biet-em-con-doi-toi-khong-300x300.jpg" class="card-img-top wp-post-image" alt="Không biết em còn đợi không, còn #Flovetia vẫn ngồi đây từ chiều mong em" loading="lazy" srcset="http://flovetia.test/wp-content/uploads/2020/11/khong-biet-em-con-doi-toi-khong-300x300.jpg 300w, http://flovetia.test/wp-content/uploads/2020/11/khong-biet-em-con-doi-toi-khong-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" data-eio="l" /></noscript>                </a>
-                <div class="card-body">
-                    <h5 class="card-title"><a href="http://flovetia.test/khong-biet-em-con-doi-khong/">Không biết em còn đợi không!</a></h5>
-                    <p class="card-text">
-	                    Bao ngày nắng cháy bao ngày mưa dông Bao ngày gió cuốn mây trôi cầu vồng Bao ngày qua rồi em còn đợi tôi không? Không biết em còn đợi không, còn...                        <span><a href="http://flovetia.test/khong-biet-em-con-doi-khong/">Xem Tiếp &raquo;</a></span>
-                    </p>
-                </div>
-            </div>
-	                <div class="card">
-                <a href="http://flovetia.test/mot-mai-minh-gia-di/">
-                    <img width="300" height="300" src="http://flovetia.test/wp-content/ewww/lazy/placeholder-300x300.png" class="card-img-top wp-post-image lazyload" alt="Anh có muốn cùng em ngắm Hồ Điệp &quot;thơm&quot; trong gió?" loading="lazy"   data-src="http://flovetia.test/wp-content/uploads/2020/11/mot-mai-minh-gia-di-300x300.jpg" data-srcset="http://flovetia.test/wp-content/uploads/2020/11/mot-mai-minh-gia-di-300x300.jpg 300w, http://flovetia.test/wp-content/uploads/2020/11/mot-mai-minh-gia-di-150x150.jpg 150w" data-sizes="auto" /><noscript><img width="300" height="300" src="http://flovetia.test/wp-content/uploads/2020/11/mot-mai-minh-gia-di-300x300.jpg" class="card-img-top wp-post-image" alt="Anh có muốn cùng em ngắm Hồ Điệp &quot;thơm&quot; trong gió?" loading="lazy" srcset="http://flovetia.test/wp-content/uploads/2020/11/mot-mai-minh-gia-di-300x300.jpg 300w, http://flovetia.test/wp-content/uploads/2020/11/mot-mai-minh-gia-di-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" data-eio="l" /></noscript>                </a>
-                <div class="card-body">
-                    <h5 class="card-title"><a href="http://flovetia.test/mot-mai-minh-gia-di/">Một mai mình già đi</a></h5>
-                    <p class="card-text">
-	                    Anh có muốn cùng em ngắm Hồ Điệp &#8220;thơm&#8221; trong gió? 💁‍♀️Đến ngay&nbsp;#Flovetia&nbsp;thì không cần đợi đến già cũng ngắm được Hồ Điệp trong nắng!                        <span><a href="http://flovetia.test/mot-mai-minh-gia-di/">Xem Tiếp &raquo;</a></span>
                     </p>
                 </div>
             </div>
