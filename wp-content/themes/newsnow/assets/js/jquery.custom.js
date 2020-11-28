@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    $('.carousel').carousel({
+    $('.carousel, .carousel-diary').carousel({
         interval: 5000,
         ride: 'carousel'
     });

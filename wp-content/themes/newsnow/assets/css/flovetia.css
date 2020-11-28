@@ -92,7 +92,17 @@ a:hover{
     background-attachment: fixed;
     padding: 96px 20px 60px 20px;
     margin-top: 80px;
-    margin-bottom: 80px;
+    /*margin-bottom: 80px;*/
+}
+#diary{
+    padding: 10px 20px 60px 20px;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+#diary .container{
+    min-height: 300px;
+    max-height: 500px;
+    overflow-y: hidden;
 }
 #slogan .slogan-wraper{
     margin: 0 auto;
@@ -154,7 +164,14 @@ a:hover{
     left: 0px;
     padding: 25px;
 }
-
+.pagination .nav-links{
+    margin: auto;
+    padding: 15px;
+}
+.page-numbers{
+    padding: 5px;
+    font-size: 18pt;
+}
 @media (min-width: 1140px) and (max-width: 1200px){
     #stories .panel-right{
         padding: 40px;
